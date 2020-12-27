@@ -1,5 +1,6 @@
 # JdbcEx
 
+- Gradle Project Sample
 ### 1. RAW
 - JDBC Basic
 ### 2. DAO
