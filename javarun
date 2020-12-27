@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp "app/build/classes/java/main/:lib/sqlite-jdbc-3.8.11.2.jar" $1
